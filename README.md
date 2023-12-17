@@ -3,3 +3,5 @@ Online supplementary materials for the manuscript "Optimizing Capacitated Multi-
 
 Implementation details are provided in Supplementary A. 
 Experiment details are provided in Supplementary B.
+
+Data and source code will be shared after the manuscript is accepted for publication.
